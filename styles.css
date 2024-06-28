@@ -228,9 +228,9 @@ h1 {
         justify-content: center;
         align-items: flex-end;
         img {
-            margin-top: -60px;
+            margin-top: -30px;
             max-width: 420px;
-            margin-bottom: -10px;
+            margin-bottom: 0px;
         }
     }
 }
